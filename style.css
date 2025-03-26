@@ -6,7 +6,7 @@ html, body {
 }
 
 body {
-    background-image: url('/farm_background.png'); /* Replace with your actual farm image path */
+    background-image: url('farm_background.png'); /* Replace with your actual farm image path */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
